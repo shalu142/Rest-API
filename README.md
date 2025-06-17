@@ -94,4 +94,6 @@ lib/gson-2.10.1.jar – Gson JSON parsing library
 
 
 OUTPUT: 
+![Image](https://github.com/user-attachments/assets/6d9dd9bf-ec2f-4334-8b6e-49e06a02d149)
+![Image](https://github.com/user-attachments/assets/0617f92e-3e3a-43b4-a421-434f7a7301a1)
 
